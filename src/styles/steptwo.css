@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.title {
+  padding: 0em 6em;
+}
+
+.plan-selection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.plan-btn {
+  border: solid 1px rgb(204, 202, 202);
+  cursor: pointer;
+  height: 150px;
+  width: 150px;
+  background-color: white;
+}
+
+.plan-btn:hover {
+  border: solid black 2px;
+}
+
+.plan-btn:focus {
+  border: solid black 2px;
+}
+
+.plan-btn {
+  color: black;
+}
+
+span {
+  justify-content: center;
+  padding: 15px;
+}
+
+img {
+  padding: 1em;
+  justify-content: none;
+}

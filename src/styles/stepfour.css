@@ -1,0 +1,48 @@
+.total-items {
+  background-color: rgb(229, 227, 227);
+  width: 400px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.item-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 1em;
+}
+
+.item-content h2 {
+  color: black;
+  text-transform: inherit;
+}
+
+.plan {
+  margin-bottom: 10px;
+}
+
+.item-content p {
+  font-size: 13px;
+}
+
+.item-content,
+.plan h2 {
+  font-size: 16px;
+}
+
+.total {
+  width: 400px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 10px;
+}
+
+.total p {
+  font-size: 20px;
+}
+
+.total h2 {
+  font-size: 20px;
+}

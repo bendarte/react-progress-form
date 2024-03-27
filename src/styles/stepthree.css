@@ -1,0 +1,43 @@
+.title {
+  text-transform: inherit;
+}
+
+.addons {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+  width: 500px;
+  margin: auto;
+}
+
+.choice {
+  height: 80px;
+  width: 90%;
+  border: solid 1px blue;
+  cursor: pointer;
+  background-color: white;
+  border-radius: 15px;
+}
+
+.online:active,
+.online:hover {
+  border: solid black 2px;
+}
+
+.addons h2 {
+  color: black;
+  font-weight: 500;
+}
+
+.addons p {
+  color: grey;
+  font-size: 12px;
+  text-transform: inherit;
+}
+
+.addon-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  text-align: left;
+}
