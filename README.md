@@ -20,10 +20,9 @@
   </ol>
   <h2>Usage</h2>
   <ol>
-  
-    <li>Fill out the form with your personal information and add-ons preferences.</li>
-    <li>Click the "Next" button to navigate to the next step.</li>
-    <li>Once you reach the final step, click the "Confirm" button to submit the form.</li>
+  <li>Fill out the form with your personal information and add-ons preferences.</li>
+  <li>Click the "Next" button to navigate to the next step.</li>
+  <li>Once you reach the final step, click the "Confirm" button to submit the form.</li>
   </ol>
   <h2>Contributing</h2>
   <p>Contributions are always welcome! If you'd like to contribute, please follow these steps:</p>
